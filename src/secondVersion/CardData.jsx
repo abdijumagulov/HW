@@ -1,6 +1,7 @@
 import React from 'react';
 
-const post = () => {
+
+const CardData = () => {
     return (
         <div>
             
@@ -8,4 +9,4 @@ const post = () => {
     );
 };
 
-export default post;
+export default CardData;

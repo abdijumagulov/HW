@@ -1,11 +1,10 @@
 import './App.css';
-import WebApp from "./firstVersion/WebApp"
-
+import WebApp1 from "./firstVersion/webApp"
+import WebApp2 from "./secondVersion/all"
 function App() {
   return (
     <div className="App">
-      <WebApp/>
-      
+      <WebApp1/>
     </div>
   );
 }
